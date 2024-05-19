@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Movie Searching",
+      "category": "It's a movie searching website developed in react with API integration",
+      "image": "images/movie-project.png"
+    },
+    {
+      "id": 2,
+      "title": "Calculator",
+      "category": "It's a simple mathematics calculator created with HTML, CSS and JavaScript",
+      "image": "images/calculator-project.png"
+    },
+    {
+      "id": 3,
+      "title": "Drum Kit",
+      "category": "It's a drum instrument playing static website  developed with react using javascript concepts",
+      "image": "images/drum-project.png"
+    },
+    {
+      "id": 4,
+      "title": "AskUs",
+      "category": "An Web application for asking question based on document you uploaded, developed using react,python and API integration",
+      "image": "images/AskUs-project.png"
+    },
+    {
+      "id": 5,
+      "title": "TinDog.",
+      "category": "A well Responsive Dog selling and community website developed using HTML, CSs",
+      "image": "images/tindog-project.png"
+    }
+
+  ]
+  
