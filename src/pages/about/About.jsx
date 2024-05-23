@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import Service from "./Service";
 import Testimonial from "./Testimonial";
